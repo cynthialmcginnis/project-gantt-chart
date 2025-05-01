@@ -1,0 +1,14 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f8fa;
+  margin: 0;
+  padding: 2rem;
+  color: #333;
+}
+
+#gantt {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+}
